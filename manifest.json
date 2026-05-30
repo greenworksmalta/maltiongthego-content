@@ -1,0 +1,24 @@
+{
+  "_comment": "SAMPLE OTA manifest — lives in the public maltiongthego-content repo at the BASE/tag set in content-config.js. The app fetches this, compares contentVersion to the locally stored one, and downloads only changed files. Not used while OTA_ENABLED=false.",
+  "contentVersion": 1,
+  "minAppVersion": "1.1.0",
+  "lessons": {
+    "lesson1": {
+      "v": 1,
+      "minAppVersion": "1.1.0",
+      "files": [
+        "lessons/lesson1.json",
+        "lessons/lesson1.es.json",
+        "lessons/overviews/lesson1.json"
+      ]
+    },
+    "lesson2": {
+      "v": 1,
+      "files": [
+        "lessons/lesson2.json",
+        "lessons/lesson2.es.json",
+        "lessons/overviews/lesson2.json"
+      ]
+    }
+  }
+}

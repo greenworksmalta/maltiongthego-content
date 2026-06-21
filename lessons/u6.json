@@ -1,0 +1,762 @@
+{
+  "id": "u6",
+  "title": "Building Sentences & Doing",
+  "subtitle": "Verbs, having, and there is: putting words together",
+  "sections": [
+    {
+      "id": "myday",
+      "icon": "☀️",
+      "title": "My day",
+      "subtitle": "Il-ġurnata tiegħi: a daily routine",
+      "intro": "A short run through an ordinary day.",
+      "dialogue": [
+        {
+          "mt": "X'tagħmel filgħodu?",
+          "en": "What do you do in the morning?"
+        },
+        {
+          "mt": "Nqum kmieni u nixrob kapuċċino.",
+          "en": "I get up early and drink a cappuccino."
+        },
+        {
+          "mt": "U wara?",
+          "en": "And after?"
+        },
+        {
+          "mt": "Immur naħdem sas-sitta.",
+          "en": "I go to work until six."
+        },
+        {
+          "mt": "Filgħaxija?",
+          "en": "In the evening?"
+        },
+        {
+          "mt": "Niekol id-dar u naqra ktieb.",
+          "en": "I eat at home and read a book."
+        }
+      ]
+    },
+    {
+      "id": "imperative",
+      "icon": "📣",
+      "title": "Imperative",
+      "subtitle": "L-Imperattiv: giving commands",
+      "intro": "The imperative is what you use when you tell someone to do something. Two forms: singular (you alone) and plural (you all).",
+      "facts": [
+        "Singular form is for one person.",
+        "Plural form adds -u on the end (or similar suffix).",
+        "Tip: drop the first letter of the present-tense verb to get the imperative. nifhem (I understand) → ifhem (you understand!)."
+      ],
+      "items": [
+        {
+          "singular": "Mur",
+          "plural": "Morru",
+          "en": "Go",
+          "icon": "🚶"
+        },
+        {
+          "singular": "Ejja",
+          "plural": "Ejjew",
+          "en": "Come",
+          "icon": "🫷"
+        },
+        {
+          "singular": "Iekol",
+          "plural": "Ieklu",
+          "en": "Eat",
+          "icon": "🍽️"
+        },
+        {
+          "singular": "Ixrob",
+          "plural": "Ixorbu",
+          "en": "Drink",
+          "icon": "🥤"
+        },
+        {
+          "singular": "Aqra",
+          "plural": "Aqraw",
+          "en": "Read",
+          "icon": "📖"
+        },
+        {
+          "singular": "Ikteb",
+          "plural": "Iktbu",
+          "en": "Write",
+          "icon": "✏️"
+        },
+        {
+          "singular": "Imxi",
+          "plural": "Imxu",
+          "en": "Walk",
+          "icon": "🦶"
+        },
+        {
+          "singular": "Iġri",
+          "plural": "Iġru",
+          "en": "Run",
+          "icon": "🏃"
+        },
+        {
+          "singular": "Oqgħod",
+          "plural": "Oqogħdu",
+          "en": "Sit / stay",
+          "icon": "🪑"
+        },
+        {
+          "singular": "Qum",
+          "plural": "Qumu",
+          "en": "Get up",
+          "icon": "⬆️"
+        },
+        {
+          "singular": "Iftaħ",
+          "plural": "Iftħu",
+          "en": "Open",
+          "icon": "🔓"
+        },
+        {
+          "singular": "Agħlaq",
+          "plural": "Agħlqu",
+          "en": "Close",
+          "icon": "🔒"
+        },
+        {
+          "singular": "Isma'",
+          "plural": "Isimgħu",
+          "en": "Listen",
+          "icon": "👂"
+        }
+      ],
+      "exercises": [
+        {
+          "id": "ex8",
+          "title": "Exercise: singular or plural?",
+          "instructions": "Tap which form you're hearing, for one person, or for many?",
+          "choices": [
+            "singular",
+            "plural"
+          ],
+          "items": [
+            {
+              "present": "nikteb",
+              "imperative": "ikteb",
+              "en": "to write",
+              "answer": "singular"
+            },
+            {
+              "present": "niktbu",
+              "imperative": "iktbu",
+              "en": "to write (pl)",
+              "answer": "plural"
+            },
+            {
+              "present": "naqra",
+              "imperative": "aqra",
+              "en": "to read",
+              "answer": "singular"
+            },
+            {
+              "present": "naqraw",
+              "imperative": "aqraw",
+              "en": "to read (pl)",
+              "answer": "plural"
+            },
+            {
+              "present": "niekol",
+              "imperative": "iekol",
+              "en": "to eat",
+              "answer": "singular"
+            },
+            {
+              "present": "nieklu",
+              "imperative": "ieklu",
+              "en": "to eat (pl)",
+              "answer": "plural"
+            },
+            {
+              "present": "norqod",
+              "imperative": "orqod",
+              "en": "to sleep",
+              "answer": "singular"
+            },
+            {
+              "present": "norqdu",
+              "imperative": "orqdu",
+              "en": "to sleep (pl)",
+              "answer": "plural"
+            }
+          ]
+        },
+        {
+          "id": "impmatch",
+          "type": "match",
+          "title": "Match the command: one person to many",
+          "leftField": "singular",
+          "rightField": "plural",
+          "items": [
+            {
+              "singular": "Mur",
+              "plural": "Morru"
+            },
+            {
+              "singular": "Iekol",
+              "plural": "Ieklu"
+            },
+            {
+              "singular": "Ixrob",
+              "plural": "Ixorbu"
+            },
+            {
+              "singular": "Aqra",
+              "plural": "Aqraw"
+            },
+            {
+              "singular": "Imxi",
+              "plural": "Imxu"
+            },
+            {
+              "singular": "Qum",
+              "plural": "Qumu"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "present",
+      "icon": "🔁",
+      "title": "Present tense",
+      "subtitle": "Il-Preżent: adding a prefix to the imperative",
+      "intro": "Add a prefix to the imperative to form the present tense. If the imperative starts with a vowel: n / t / j / t. If it starts with a consonant: in / t / i / t.",
+      "rules": [
+        {
+          "id": "vowel",
+          "title": "Imperative starts with a vowel: e.g. iftaħ (open!)",
+          "rows": [
+            {
+              "person": "Jien (I)",
+              "prefix": "n",
+              "form": "niftaħ",
+              "en": "I open"
+            },
+            {
+              "person": "Int (you)",
+              "prefix": "t",
+              "form": "tiftaħ",
+              "en": "you open"
+            },
+            {
+              "person": "Hu (he)",
+              "prefix": "j",
+              "form": "jiftaħ",
+              "en": "he opens"
+            },
+            {
+              "person": "Hi (she)",
+              "prefix": "t",
+              "form": "tiftaħ",
+              "en": "she opens"
+            },
+            {
+              "person": "Aħna (we)",
+              "prefix": "n",
+              "form": "niftħu",
+              "en": "we open"
+            },
+            {
+              "person": "Intom (you pl)",
+              "prefix": "t",
+              "form": "tiftħu",
+              "en": "you (pl) open"
+            },
+            {
+              "person": "Huma (they)",
+              "prefix": "j",
+              "form": "jiftħu",
+              "en": "they open"
+            }
+          ]
+        },
+        {
+          "id": "consonant",
+          "title": "Imperative starts with a consonant: e.g. ġib (bring!)",
+          "rows": [
+            {
+              "person": "Jien (I)",
+              "prefix": "in",
+              "form": "inġib",
+              "en": "I bring"
+            },
+            {
+              "person": "Int (you)",
+              "prefix": "t",
+              "form": "iġġib",
+              "en": "you bring"
+            },
+            {
+              "person": "Hu (he)",
+              "prefix": "i",
+              "form": "iġib",
+              "en": "he brings"
+            },
+            {
+              "person": "Hi (she)",
+              "prefix": "t",
+              "form": "iġġib",
+              "en": "she brings"
+            },
+            {
+              "person": "Aħna (we)",
+              "prefix": "in",
+              "form": "inġibu",
+              "en": "we bring"
+            },
+            {
+              "person": "Intom (you pl)",
+              "prefix": "t",
+              "form": "iġġibu",
+              "en": "you (pl) bring"
+            },
+            {
+              "person": "Huma (they)",
+              "prefix": "i",
+              "form": "iġibu",
+              "en": "they bring"
+            }
+          ]
+        }
+      ],
+      "exercises": [
+        {
+          "id": "ex9",
+          "title": "Exercise: conjugate iekol (to eat)",
+          "instructions": "Pick the right present-tense form for each pronoun.",
+          "choices": [
+            "niekol",
+            "tiekol",
+            "jiekol",
+            "tiekol",
+            "nieklu",
+            "tieklu",
+            "jieklu"
+          ],
+          "items": [
+            {
+              "pronoun": "Jien",
+              "en": "I eat",
+              "answer": "niekol"
+            },
+            {
+              "pronoun": "Int",
+              "en": "You eat",
+              "answer": "tiekol"
+            },
+            {
+              "pronoun": "Hu",
+              "en": "He eats",
+              "answer": "jiekol"
+            },
+            {
+              "pronoun": "Hi",
+              "en": "She eats",
+              "answer": "tiekol"
+            },
+            {
+              "pronoun": "Aħna",
+              "en": "We eat",
+              "answer": "nieklu"
+            },
+            {
+              "pronoun": "Intom",
+              "en": "You (pl) eat",
+              "answer": "tieklu"
+            },
+            {
+              "pronoun": "Huma",
+              "en": "They eat",
+              "answer": "jieklu"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "grammar6",
+      "icon": "📖",
+      "title": "Grammar",
+      "subtitle": "Il-grammatika: doing things",
+      "intro": "Commands, the present tense, the future, and the everyday 'I have' / 'there is'.",
+      "rules": [
+        {
+          "id": "imperative-form",
+          "title": "Telling someone what to do",
+          "explanation": "The command form comes in two shapes: one person (Imxi! means 'walk!') and a group (Imxu!). The group usually just adds -u.",
+          "letters": [
+            "Imxi/Imxu",
+            "Ikteb/Iktbu",
+            "Dur/Duru",
+            "Ikser/Iksru",
+            "Mur/Morru",
+            "Poġġi/Poġġu"
+          ],
+          "examples": [
+            {
+              "mt": "Imxi dritt",
+              "en": "Walk straight (to one person)"
+            },
+            {
+              "mt": "Imxu dritt",
+              "en": "Walk straight (to a group)"
+            },
+            {
+              "mt": "Ikteb l-isem tiegħek",
+              "en": "Write your name (to one person)"
+            },
+            {
+              "mt": "Iktbu l-isem tagħkom",
+              "en": "Write your name (to a group)"
+            },
+            {
+              "mt": "Dur fuq il-lemin",
+              "en": "Turn on your right (sg)"
+            },
+            {
+              "mt": "Duru fuq il-lemin",
+              "en": "Turn on your right (pl)"
+            }
+          ]
+        },
+        {
+          "id": "imperative-from-mamma",
+          "title": "The root inside a command (advanced)",
+          "explanation": "For Semitic-origin verbs, the imperative is derived from the 'mamma' (3rd-person past tense, what HE did) by switching the first vowel and the first root consonant. Xorob (he drank) → ixrob (drink!). The pattern keeps three root consonants intact.",
+          "examples": [
+            {
+              "mt": "Xorob → ixrob / ixorbu",
+              "en": "he drank → drink! (sg / pl)"
+            },
+            {
+              "mt": "Kiser → ikser / iksru",
+              "en": "he broke → break! (sg / pl)"
+            },
+            {
+              "mt": "Ħeles → eħles / eħilsu",
+              "en": "he freed → free! (sg / pl)"
+            },
+            {
+              "mt": "Kiteb → ikteb / iktbu",
+              "en": "he wrote → write! (sg / pl)"
+            },
+            {
+              "mt": "Resaq → ersaq / ersqu",
+              "en": "he approached → approach! (sg / pl)"
+            }
+          ]
+        },
+        {
+          "id": "present-from-imperative",
+          "title": "Build the present from the command",
+          "explanation": "Take the command and add a person-prefix: n- = I, t- = you/she, j- = he (plus plurals). Iftaħ! → niftaħ (I open), tiftaħ (you open), jiftaħ (he opens).",
+          "letters": [
+            "jien — n",
+            "int — t",
+            "hu — j",
+            "hi — t",
+            "aħna — n",
+            "intom — t",
+            "huma — j"
+          ],
+          "examples": [
+            {
+              "mt": "oħroġ → noħroġ",
+              "en": "go out (imp) → I go out"
+            },
+            {
+              "mt": "oħroġ → toħroġ",
+              "en": "→ you go out / she goes out"
+            },
+            {
+              "mt": "oħroġ → joħroġ",
+              "en": "→ he goes out"
+            },
+            {
+              "mt": "poġġi → inpoġġi",
+              "en": "sit (imp, consonant start) → I sit"
+            },
+            {
+              "mt": "poġġi → tpoġġi",
+              "en": "→ you sit / she sits"
+            },
+            {
+              "mt": "ixrob → nixrob / tixrob / jixrob",
+              "en": "drink → I/you/he drink"
+            }
+          ]
+        },
+        {
+          "id": "future",
+          "title": "The future is one little word: se",
+          "explanation": "Put se (or ser, or ħa) in front of the present and you're in the future: Se niekol (I'm going to eat). Use se, never sa on its own (sa alone means 'until').",
+          "letters": [
+            "se",
+            "ser",
+            "ħa"
+          ],
+          "examples": [
+            {
+              "mt": "Ser nikteb",
+              "en": "I am going to write"
+            },
+            {
+              "mt": "Se niekol",
+              "en": "I am going to eat"
+            },
+            {
+              "mt": "Ħa npoġġi",
+              "en": "I am going to sit down"
+            },
+            {
+              "mt": "Ser jixrob",
+              "en": "He is going to drink"
+            },
+            {
+              "mt": "Se naqra",
+              "en": "I am going to read"
+            }
+          ]
+        },
+        {
+          "id": "ghandi",
+          "title": "Saying what you have: Għandi",
+          "explanation": "Maltese has no plain verb 'to have', it bolts the same ownership endings from the last unit onto għand-: għandi (I have), għandek (you have), għandu (he has). 'Don't have' wraps around it: m'għandix.",
+          "examples": [
+            {
+              "mt": "Għandi ħin",
+              "en": "I have time"
+            },
+            {
+              "mt": "Għandek karozza?",
+              "en": "Do you have a car?"
+            },
+            {
+              "mt": "M'għandix flus",
+              "en": "I don't have money"
+            }
+          ]
+        },
+        {
+          "id": "hemm",
+          "title": "There is / there are: hemm",
+          "explanation": "One word covers both: Hemm ħanut hawn? Is there a shop here? The 'none' version is m'hemmx.",
+          "examples": [
+            {
+              "mt": "Hemm problema",
+              "en": "There is a problem"
+            },
+            {
+              "mt": "Hemm żewġ siġġijiet",
+              "en": "There are two chairs"
+            },
+            {
+              "mt": "M'hemmx ħin",
+              "en": "There's no time"
+            }
+          ]
+        },
+        {
+          "id": "word-order",
+          "title": "Putting a sentence together",
+          "explanation": "Safe default is Subject–Verb–Object, like English: Joseph jixrob il-kapuċċino. Maltese can lead with the verb for emphasis, but SVO is always understood.",
+          "examples": [
+            {
+              "mt": "Joseph jixrob il-kapuċċino",
+              "en": "Joseph drinks the cappuccino"
+            },
+            {
+              "mt": "Mary taqra ktieb",
+              "en": "Mary reads a book"
+            }
+          ]
+        }
+      ],
+      "exercises": [
+        {
+          "id": "g6build",
+          "type": "build",
+          "max": 5,
+          "title": "Build the sentence",
+          "items": [
+            {
+              "mt": "Joseph jixrob il-kapuċċino",
+              "en": "Joseph drinks the cappuccino"
+            },
+            {
+              "mt": "Mary taqra ktieb",
+              "en": "Mary reads a book"
+            },
+            {
+              "mt": "Se niekol",
+              "en": "I am going to eat"
+            },
+            {
+              "mt": "Ser nikteb",
+              "en": "I am going to write"
+            },
+            {
+              "mt": "Se naqra",
+              "en": "I am going to read"
+            }
+          ]
+        },
+        {
+          "id": "havebucket",
+          "type": "bucket",
+          "batch": 6,
+          "title": "Have, or there is?",
+          "instructions": "Sort each phrase: is it 'I have' (Għandi) or 'there is/are' (Hemm)?",
+          "choices": [
+            "Għandi (have)",
+            "Hemm (there is)"
+          ],
+          "items": [
+            {
+              "word": "Għandi ħin",
+              "answer": "Għandi (have)"
+            },
+            {
+              "word": "Għandek karozza?",
+              "answer": "Għandi (have)"
+            },
+            {
+              "word": "M'għandix flus",
+              "answer": "Għandi (have)"
+            },
+            {
+              "word": "Hemm problema",
+              "answer": "Hemm (there is)"
+            },
+            {
+              "word": "Hemm żewġ siġġijiet",
+              "answer": "Hemm (there is)"
+            },
+            {
+              "word": "M'hemmx ħin",
+              "answer": "Hemm (there is)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "vocabulary",
+      "icon": "📚",
+      "title": "Vocabulary",
+      "subtitle": "Il-vokabularju: every word in one place",
+      "intro": "Everything from this section, gathered to revise. Tap any word to hear it.",
+      "groups": [
+        {
+          "title": "Verbs: imperative (sg / pl)",
+          "items": [
+            {
+              "mt": "Mur",
+              "en": "Go",
+              "icon": "🚶"
+            },
+            {
+              "mt": "Ejja",
+              "en": "Come",
+              "icon": "🫷"
+            },
+            {
+              "mt": "Iekol",
+              "en": "Eat",
+              "icon": "🍽️"
+            },
+            {
+              "mt": "Ixrob",
+              "en": "Drink",
+              "icon": "🥤"
+            },
+            {
+              "mt": "Aqra",
+              "en": "Read",
+              "icon": "📖"
+            },
+            {
+              "mt": "Ikteb",
+              "en": "Write",
+              "icon": "✏️"
+            },
+            {
+              "mt": "Imxi",
+              "en": "Walk",
+              "icon": "🦶"
+            },
+            {
+              "mt": "Iġri",
+              "en": "Run",
+              "icon": "🏃"
+            },
+            {
+              "mt": "Oqgħod",
+              "en": "Sit / stay",
+              "icon": "🪑"
+            },
+            {
+              "mt": "Qum",
+              "en": "Get up",
+              "icon": "⬆️"
+            },
+            {
+              "mt": "Iftaħ",
+              "en": "Open",
+              "icon": "🔓"
+            },
+            {
+              "mt": "Agħlaq",
+              "en": "Close",
+              "icon": "🔒"
+            }
+          ],
+          "icon": "📣"
+        },
+        {
+          "title": "Have / there is",
+          "items": [
+            {
+              "mt": "Għandi",
+              "en": "I have",
+              "icon": "✋"
+            },
+            {
+              "mt": "Għandek",
+              "en": "you have",
+              "icon": "✋"
+            },
+            {
+              "mt": "Għandu",
+              "en": "he has",
+              "icon": "✋"
+            },
+            {
+              "mt": "M'għandix",
+              "en": "I don't have",
+              "icon": "🙅"
+            },
+            {
+              "mt": "Hemm",
+              "en": "there is / are",
+              "icon": "📍"
+            },
+            {
+              "mt": "M'hemmx",
+              "en": "there isn't / aren't",
+              "icon": "❌"
+            }
+          ],
+          "icon": "✋"
+        }
+      ]
+    }
+  ]
+}

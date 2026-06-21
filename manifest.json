@@ -1,7 +1,7 @@
 {
-  "contentVersion": 3,
+  "contentVersion": 4,
   "minAppVersion": "1.0.3",
-  "audioBase": "https://cdn.jsdelivr.net/gh/greenworksmalta/maltiongthego-content@main/audio",
+  "audioBase": "https://cdn.jsdelivr.net/gh/greenworksmalta/maltiongthego-content@drop-3/audio",
   "audioManifest": "https://cdn.jsdelivr.net/gh/greenworksmalta/maltiongthego-content@drop-3/audio/manifest.json",
   "recordedManifest": "https://cdn.jsdelivr.net/gh/greenworksmalta/maltiongthego-content@drop-3/audio/recorded.json",
   "lessons": {

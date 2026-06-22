@@ -1,9 +1,9 @@
 {
-  "contentVersion": 5,
+  "contentVersion": 6,
   "minAppVersion": "1.0.3",
   "audioBase": "https://cdn.jsdelivr.net/gh/greenworksmalta/maltiongthego-content@drop-4/audio",
-  "audioManifest": "https://cdn.jsdelivr.net/gh/greenworksmalta/maltiongthego-content@drop-4/audio/manifest.json",
   "recordedManifest": "https://cdn.jsdelivr.net/gh/greenworksmalta/maltiongthego-content@drop-4/audio/recorded.json",
+  "audioAdditions": { "OTA test 2": "otatest2.mp3" },
   "lessons": {
     "extra1": {
       "v": 5,

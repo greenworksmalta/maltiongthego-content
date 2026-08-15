@@ -1,10 +1,10 @@
 {
-  "contentVersion": 12,
+  "contentVersion": 13,
   "minAppVersion": "1.0.8",
-  "audioBase": "https://cdn.jsdelivr.net/gh/greenworksmalta/maltiongthego-content@drop-10/audio",
-  "recordedManifest": "https://cdn.jsdelivr.net/gh/greenworksmalta/maltiongthego-content@drop-10/audio/recorded.json",
-  "index": "https://cdn.jsdelivr.net/gh/greenworksmalta/maltiongthego-content@drop-10/lessons/index.json",
-  "artBase": "https://cdn.jsdelivr.net/gh/greenworksmalta/maltiongthego-content@drop-10/assets/unit-art",
+  "audioBase": "https://cdn.jsdelivr.net/gh/greenworksmalta/maltiongthego-content@drop-11/audio",
+  "recordedManifest": "https://cdn.jsdelivr.net/gh/greenworksmalta/maltiongthego-content@drop-11/audio/recorded.json",
+  "index": "https://cdn.jsdelivr.net/gh/greenworksmalta/maltiongthego-content@drop-11/lessons/index.json",
+  "artBase": "https://cdn.jsdelivr.net/gh/greenworksmalta/maltiongthego-content@drop-11/assets/unit-art",
   "audioAdditions": {
     "Fil-kċina hemm żewġ siġġijiet.": "88c13d2cc916.mp3",
     "Fil-kċina hemm żewġ twieqi kbar.": "18339a2970d1.mp3",
@@ -237,120 +237,120 @@
   },
   "lessons": {
     "extra1": {
-      "v": 12,
+      "v": 13,
       "files": {
-        "lesson": "https://cdn.jsdelivr.net/gh/greenworksmalta/maltiongthego-content@drop-10/lessons/extra1.json",
-        "lesson.es": "https://cdn.jsdelivr.net/gh/greenworksmalta/maltiongthego-content@drop-10/lessons/extra1.es.json",
-        "overview": "https://cdn.jsdelivr.net/gh/greenworksmalta/maltiongthego-content@drop-10/lessons/overviews/extra1.json",
-        "overview.es": "https://cdn.jsdelivr.net/gh/greenworksmalta/maltiongthego-content@drop-10/lessons/overviews/extra1.es.json"
+        "lesson": "https://cdn.jsdelivr.net/gh/greenworksmalta/maltiongthego-content@drop-11/lessons/extra1.json",
+        "lesson.es": "https://cdn.jsdelivr.net/gh/greenworksmalta/maltiongthego-content@drop-11/lessons/extra1.es.json",
+        "overview": "https://cdn.jsdelivr.net/gh/greenworksmalta/maltiongthego-content@drop-11/lessons/overviews/extra1.json",
+        "overview.es": "https://cdn.jsdelivr.net/gh/greenworksmalta/maltiongthego-content@drop-11/lessons/overviews/extra1.es.json"
       }
     },
     "extra2": {
-      "v": 12,
+      "v": 13,
       "files": {
-        "lesson": "https://cdn.jsdelivr.net/gh/greenworksmalta/maltiongthego-content@drop-10/lessons/extra2.json",
-        "lesson.es": "https://cdn.jsdelivr.net/gh/greenworksmalta/maltiongthego-content@drop-10/lessons/extra2.es.json",
-        "overview": "https://cdn.jsdelivr.net/gh/greenworksmalta/maltiongthego-content@drop-10/lessons/overviews/extra2.json",
-        "overview.es": "https://cdn.jsdelivr.net/gh/greenworksmalta/maltiongthego-content@drop-10/lessons/overviews/extra2.es.json"
+        "lesson": "https://cdn.jsdelivr.net/gh/greenworksmalta/maltiongthego-content@drop-11/lessons/extra2.json",
+        "lesson.es": "https://cdn.jsdelivr.net/gh/greenworksmalta/maltiongthego-content@drop-11/lessons/extra2.es.json",
+        "overview": "https://cdn.jsdelivr.net/gh/greenworksmalta/maltiongthego-content@drop-11/lessons/overviews/extra2.json",
+        "overview.es": "https://cdn.jsdelivr.net/gh/greenworksmalta/maltiongthego-content@drop-11/lessons/overviews/extra2.es.json"
       }
     },
     "u1": {
-      "v": 12,
+      "v": 13,
       "files": {
-        "lesson": "https://cdn.jsdelivr.net/gh/greenworksmalta/maltiongthego-content@drop-10/lessons/u1.json",
-        "lesson.es": "https://cdn.jsdelivr.net/gh/greenworksmalta/maltiongthego-content@drop-10/lessons/u1.es.json",
-        "overview": "https://cdn.jsdelivr.net/gh/greenworksmalta/maltiongthego-content@drop-10/lessons/overviews/u1.json",
-        "overview.es": "https://cdn.jsdelivr.net/gh/greenworksmalta/maltiongthego-content@drop-10/lessons/overviews/u1.es.json"
+        "lesson": "https://cdn.jsdelivr.net/gh/greenworksmalta/maltiongthego-content@drop-11/lessons/u1.json",
+        "lesson.es": "https://cdn.jsdelivr.net/gh/greenworksmalta/maltiongthego-content@drop-11/lessons/u1.es.json",
+        "overview": "https://cdn.jsdelivr.net/gh/greenworksmalta/maltiongthego-content@drop-11/lessons/overviews/u1.json",
+        "overview.es": "https://cdn.jsdelivr.net/gh/greenworksmalta/maltiongthego-content@drop-11/lessons/overviews/u1.es.json"
       }
     },
     "u2": {
-      "v": 12,
+      "v": 13,
       "files": {
-        "lesson": "https://cdn.jsdelivr.net/gh/greenworksmalta/maltiongthego-content@drop-10/lessons/u2.json",
-        "lesson.es": "https://cdn.jsdelivr.net/gh/greenworksmalta/maltiongthego-content@drop-10/lessons/u2.es.json",
-        "overview": "https://cdn.jsdelivr.net/gh/greenworksmalta/maltiongthego-content@drop-10/lessons/overviews/u2.json",
-        "overview.es": "https://cdn.jsdelivr.net/gh/greenworksmalta/maltiongthego-content@drop-10/lessons/overviews/u2.es.json"
+        "lesson": "https://cdn.jsdelivr.net/gh/greenworksmalta/maltiongthego-content@drop-11/lessons/u2.json",
+        "lesson.es": "https://cdn.jsdelivr.net/gh/greenworksmalta/maltiongthego-content@drop-11/lessons/u2.es.json",
+        "overview": "https://cdn.jsdelivr.net/gh/greenworksmalta/maltiongthego-content@drop-11/lessons/overviews/u2.json",
+        "overview.es": "https://cdn.jsdelivr.net/gh/greenworksmalta/maltiongthego-content@drop-11/lessons/overviews/u2.es.json"
       }
     },
     "u3": {
-      "v": 12,
+      "v": 13,
       "files": {
-        "lesson": "https://cdn.jsdelivr.net/gh/greenworksmalta/maltiongthego-content@drop-10/lessons/u3.json",
-        "lesson.es": "https://cdn.jsdelivr.net/gh/greenworksmalta/maltiongthego-content@drop-10/lessons/u3.es.json",
-        "overview": "https://cdn.jsdelivr.net/gh/greenworksmalta/maltiongthego-content@drop-10/lessons/overviews/u3.json",
-        "overview.es": "https://cdn.jsdelivr.net/gh/greenworksmalta/maltiongthego-content@drop-10/lessons/overviews/u3.es.json"
+        "lesson": "https://cdn.jsdelivr.net/gh/greenworksmalta/maltiongthego-content@drop-11/lessons/u3.json",
+        "lesson.es": "https://cdn.jsdelivr.net/gh/greenworksmalta/maltiongthego-content@drop-11/lessons/u3.es.json",
+        "overview": "https://cdn.jsdelivr.net/gh/greenworksmalta/maltiongthego-content@drop-11/lessons/overviews/u3.json",
+        "overview.es": "https://cdn.jsdelivr.net/gh/greenworksmalta/maltiongthego-content@drop-11/lessons/overviews/u3.es.json"
       }
     },
     "u4": {
-      "v": 12,
+      "v": 13,
       "files": {
-        "lesson": "https://cdn.jsdelivr.net/gh/greenworksmalta/maltiongthego-content@drop-10/lessons/u4.json",
-        "lesson.es": "https://cdn.jsdelivr.net/gh/greenworksmalta/maltiongthego-content@drop-10/lessons/u4.es.json",
-        "overview": "https://cdn.jsdelivr.net/gh/greenworksmalta/maltiongthego-content@drop-10/lessons/overviews/u4.json",
-        "overview.es": "https://cdn.jsdelivr.net/gh/greenworksmalta/maltiongthego-content@drop-10/lessons/overviews/u4.es.json"
+        "lesson": "https://cdn.jsdelivr.net/gh/greenworksmalta/maltiongthego-content@drop-11/lessons/u4.json",
+        "lesson.es": "https://cdn.jsdelivr.net/gh/greenworksmalta/maltiongthego-content@drop-11/lessons/u4.es.json",
+        "overview": "https://cdn.jsdelivr.net/gh/greenworksmalta/maltiongthego-content@drop-11/lessons/overviews/u4.json",
+        "overview.es": "https://cdn.jsdelivr.net/gh/greenworksmalta/maltiongthego-content@drop-11/lessons/overviews/u4.es.json"
       }
     },
     "u5": {
-      "v": 12,
+      "v": 13,
       "files": {
-        "lesson": "https://cdn.jsdelivr.net/gh/greenworksmalta/maltiongthego-content@drop-10/lessons/u5.json",
-        "lesson.es": "https://cdn.jsdelivr.net/gh/greenworksmalta/maltiongthego-content@drop-10/lessons/u5.es.json",
-        "overview": "https://cdn.jsdelivr.net/gh/greenworksmalta/maltiongthego-content@drop-10/lessons/overviews/u5.json",
-        "overview.es": "https://cdn.jsdelivr.net/gh/greenworksmalta/maltiongthego-content@drop-10/lessons/overviews/u5.es.json"
+        "lesson": "https://cdn.jsdelivr.net/gh/greenworksmalta/maltiongthego-content@drop-11/lessons/u5.json",
+        "lesson.es": "https://cdn.jsdelivr.net/gh/greenworksmalta/maltiongthego-content@drop-11/lessons/u5.es.json",
+        "overview": "https://cdn.jsdelivr.net/gh/greenworksmalta/maltiongthego-content@drop-11/lessons/overviews/u5.json",
+        "overview.es": "https://cdn.jsdelivr.net/gh/greenworksmalta/maltiongthego-content@drop-11/lessons/overviews/u5.es.json"
       }
     },
     "u6": {
-      "v": 12,
+      "v": 13,
       "files": {
-        "lesson": "https://cdn.jsdelivr.net/gh/greenworksmalta/maltiongthego-content@drop-10/lessons/u6.json",
-        "lesson.es": "https://cdn.jsdelivr.net/gh/greenworksmalta/maltiongthego-content@drop-10/lessons/u6.es.json",
-        "overview": "https://cdn.jsdelivr.net/gh/greenworksmalta/maltiongthego-content@drop-10/lessons/overviews/u6.json",
-        "overview.es": "https://cdn.jsdelivr.net/gh/greenworksmalta/maltiongthego-content@drop-10/lessons/overviews/u6.es.json"
+        "lesson": "https://cdn.jsdelivr.net/gh/greenworksmalta/maltiongthego-content@drop-11/lessons/u6.json",
+        "lesson.es": "https://cdn.jsdelivr.net/gh/greenworksmalta/maltiongthego-content@drop-11/lessons/u6.es.json",
+        "overview": "https://cdn.jsdelivr.net/gh/greenworksmalta/maltiongthego-content@drop-11/lessons/overviews/u6.json",
+        "overview.es": "https://cdn.jsdelivr.net/gh/greenworksmalta/maltiongthego-content@drop-11/lessons/overviews/u6.es.json"
       }
     },
     "u7": {
-      "v": 12,
+      "v": 13,
       "files": {
-        "lesson": "https://cdn.jsdelivr.net/gh/greenworksmalta/maltiongthego-content@drop-10/lessons/u7.json",
-        "lesson.es": "https://cdn.jsdelivr.net/gh/greenworksmalta/maltiongthego-content@drop-10/lessons/u7.es.json",
-        "overview": "https://cdn.jsdelivr.net/gh/greenworksmalta/maltiongthego-content@drop-10/lessons/overviews/u7.json",
-        "overview.es": "https://cdn.jsdelivr.net/gh/greenworksmalta/maltiongthego-content@drop-10/lessons/overviews/u7.es.json"
+        "lesson": "https://cdn.jsdelivr.net/gh/greenworksmalta/maltiongthego-content@drop-11/lessons/u7.json",
+        "lesson.es": "https://cdn.jsdelivr.net/gh/greenworksmalta/maltiongthego-content@drop-11/lessons/u7.es.json",
+        "overview": "https://cdn.jsdelivr.net/gh/greenworksmalta/maltiongthego-content@drop-11/lessons/overviews/u7.json",
+        "overview.es": "https://cdn.jsdelivr.net/gh/greenworksmalta/maltiongthego-content@drop-11/lessons/overviews/u7.es.json"
       }
     },
     "u8": {
-      "v": 12,
+      "v": 13,
       "files": {
-        "lesson": "https://cdn.jsdelivr.net/gh/greenworksmalta/maltiongthego-content@drop-10/lessons/u8.json",
-        "lesson.es": "https://cdn.jsdelivr.net/gh/greenworksmalta/maltiongthego-content@drop-10/lessons/u8.es.json",
-        "overview": "https://cdn.jsdelivr.net/gh/greenworksmalta/maltiongthego-content@drop-10/lessons/overviews/u8.json",
-        "overview.es": "https://cdn.jsdelivr.net/gh/greenworksmalta/maltiongthego-content@drop-10/lessons/overviews/u8.es.json"
+        "lesson": "https://cdn.jsdelivr.net/gh/greenworksmalta/maltiongthego-content@drop-11/lessons/u8.json",
+        "lesson.es": "https://cdn.jsdelivr.net/gh/greenworksmalta/maltiongthego-content@drop-11/lessons/u8.es.json",
+        "overview": "https://cdn.jsdelivr.net/gh/greenworksmalta/maltiongthego-content@drop-11/lessons/overviews/u8.json",
+        "overview.es": "https://cdn.jsdelivr.net/gh/greenworksmalta/maltiongthego-content@drop-11/lessons/overviews/u8.es.json"
       }
     },
     "u9": {
-      "v": 12,
+      "v": 13,
       "files": {
-        "lesson": "https://cdn.jsdelivr.net/gh/greenworksmalta/maltiongthego-content@drop-10/lessons/u9.json",
-        "lesson.es": "https://cdn.jsdelivr.net/gh/greenworksmalta/maltiongthego-content@drop-10/lessons/u9.es.json",
-        "overview": "https://cdn.jsdelivr.net/gh/greenworksmalta/maltiongthego-content@drop-10/lessons/overviews/u9.json",
-        "overview.es": "https://cdn.jsdelivr.net/gh/greenworksmalta/maltiongthego-content@drop-10/lessons/overviews/u9.es.json"
+        "lesson": "https://cdn.jsdelivr.net/gh/greenworksmalta/maltiongthego-content@drop-11/lessons/u9.json",
+        "lesson.es": "https://cdn.jsdelivr.net/gh/greenworksmalta/maltiongthego-content@drop-11/lessons/u9.es.json",
+        "overview": "https://cdn.jsdelivr.net/gh/greenworksmalta/maltiongthego-content@drop-11/lessons/overviews/u9.json",
+        "overview.es": "https://cdn.jsdelivr.net/gh/greenworksmalta/maltiongthego-content@drop-11/lessons/overviews/u9.es.json"
       }
     },
     "u10": {
-      "v": 12,
+      "v": 13,
       "files": {
-        "lesson": "https://cdn.jsdelivr.net/gh/greenworksmalta/maltiongthego-content@drop-10/lessons/u10.json",
-        "lesson.es": "https://cdn.jsdelivr.net/gh/greenworksmalta/maltiongthego-content@drop-10/lessons/u10.es.json",
-        "overview": "https://cdn.jsdelivr.net/gh/greenworksmalta/maltiongthego-content@drop-10/lessons/overviews/u10.json",
-        "overview.es": "https://cdn.jsdelivr.net/gh/greenworksmalta/maltiongthego-content@drop-10/lessons/overviews/u10.es.json"
+        "lesson": "https://cdn.jsdelivr.net/gh/greenworksmalta/maltiongthego-content@drop-11/lessons/u10.json",
+        "lesson.es": "https://cdn.jsdelivr.net/gh/greenworksmalta/maltiongthego-content@drop-11/lessons/u10.es.json",
+        "overview": "https://cdn.jsdelivr.net/gh/greenworksmalta/maltiongthego-content@drop-11/lessons/overviews/u10.json",
+        "overview.es": "https://cdn.jsdelivr.net/gh/greenworksmalta/maltiongthego-content@drop-11/lessons/overviews/u10.es.json"
       }
     },
     "u11": {
-      "v": 12,
+      "v": 13,
       "files": {
-        "lesson": "https://cdn.jsdelivr.net/gh/greenworksmalta/maltiongthego-content@drop-10/lessons/u11.json",
-        "lesson.es": "https://cdn.jsdelivr.net/gh/greenworksmalta/maltiongthego-content@drop-10/lessons/u11.es.json",
-        "overview": "https://cdn.jsdelivr.net/gh/greenworksmalta/maltiongthego-content@drop-10/lessons/overviews/u11.json",
-        "overview.es": "https://cdn.jsdelivr.net/gh/greenworksmalta/maltiongthego-content@drop-10/lessons/overviews/u11.es.json"
+        "lesson": "https://cdn.jsdelivr.net/gh/greenworksmalta/maltiongthego-content@drop-11/lessons/u11.json",
+        "lesson.es": "https://cdn.jsdelivr.net/gh/greenworksmalta/maltiongthego-content@drop-11/lessons/u11.es.json",
+        "overview": "https://cdn.jsdelivr.net/gh/greenworksmalta/maltiongthego-content@drop-11/lessons/overviews/u11.json",
+        "overview.es": "https://cdn.jsdelivr.net/gh/greenworksmalta/maltiongthego-content@drop-11/lessons/overviews/u11.es.json"
       }
     }
   }
